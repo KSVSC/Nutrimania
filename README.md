@@ -1,2 +1,2 @@
 # Nutrimania
-VR Game unsing Unity 3D
+VR Game using Unity 3D
